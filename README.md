@@ -1,11 +1,18 @@
 # ESP32_IOT_Smart_home_LTARK-7
 >ESP32_IOT_Smart_home_LTARK-7 feature
+
 1.It can automatically close windows when raining
+
 2.Temperature and humidity detector
+
 3.Solid and elegant appearance
+
 4.Android app and iOS app
+
 5.Morse password door
+
 6.A host of project
+
 7.RFID function
 
 If you are interested in source code and have the ability to develop it, you can refer to this URL:  
