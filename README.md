@@ -18,7 +18,7 @@
 If you are interested in source code and have the ability to develop it, you can refer to this URL:  
 
 https://github.com/LontenTechnology/ESP32_IOT_Smart_home_LTARK-7
-<img src='2.jpg' width='100%'/>
+<img src='1.png' width='100%'/>
 
 ### Download
 
